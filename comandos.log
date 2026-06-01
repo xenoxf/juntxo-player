@@ -1,0 +1,2 @@
+// CORRER PROGRAMA
+mvn exec:java -Dexec.mainClass="com.juntxo.App"
